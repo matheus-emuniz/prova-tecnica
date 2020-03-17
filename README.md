@@ -1,8 +1,8 @@
-# prova-tecnica
+# Prova Técnica
 
 ## Estrutura e tecnologia
 
-O projeto foi realizado com a Framwork VueJs
+O projeto foi realizado com a Framework VueJs
 
 O HTML de entrada se encontra na pasta 'public'
 
@@ -17,10 +17,10 @@ Para rodar o projeto é necessário ter instalado o NodeJS e o Yarn
 
 ## Instalar Dependências
 ```
-'yarn install'
+'yarn install' ou npm
 ```
 
 ## Para Iniciar o aplicativo
 ```
-'yarn serve'
+'yarn serve' ou npm
 ```
